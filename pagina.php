@@ -5,7 +5,7 @@
     <link rel="icon" href="https://static.thenounproject.com/png/194335-200.png">
     <title>cybervoluntarios</title>
     <link rel="stylesheet" href="pagina.css">
-    <link href="./Album example · Bootstrap v5.3_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 
 <body>
@@ -132,7 +132,7 @@
         <div class="container">
             <div>
                 <p class="float-end">
-                <a href="#" class="back-to-top-button"><img src="https://cdn.icon-icons.com/icons2/906/PNG/512/up-arrow-7_icon-icons.com_69821.png" class="images" style="width: 45px; height: auto; margin: 10px; position: fixed; bottom: 15px; right: 15px;"></a>
+                    <a href="#" class="back-to-top-button"><img src="https://cdn.icon-icons.com/icons2/906/PNG/512/up-arrow-7_icon-icons.com_69821.png" class="images" style="width: 45px; height: auto; margin: 10px; position: fixed; bottom: 15px; right: 15px;"></a>
                 </p>
             </div>
 
@@ -149,7 +149,7 @@
             </div>
         </div>
     </footer>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 
 </html>
