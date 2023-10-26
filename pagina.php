@@ -240,6 +240,10 @@
         display: flex;
         align-items: center;
     }
+
+    html {
+        scroll-behavior: smooth;
+    }
 </style>
 
 <body>
@@ -366,7 +370,7 @@
         <div class="container">
             <div>
                 <p class="float-end">
-                    <a href=""><img src="https://cdn.icon-icons.com/icons2/906/PNG/512/up-arrow-7_icon-icons.com_69821.png" style="width: 50px; height: 50px"></a>
+                <a href="#" class="back-to-top-button"><img src="https://cdn.icon-icons.com/icons2/906/PNG/512/up-arrow-7_icon-icons.com_69821.png" class="images" style="width: 45px; height: auto; margin: 10px; position: fixed; bottom: 15px; right: 15px;"></a>
                 </p>
             </div>
 
@@ -374,6 +378,7 @@
                 <figure>
                     <img id="cyber" src="https://static.thenounproject.com/png/194335-200.png" height="100px" width="100px" style=" margin: 8px"></img>
                 </figure>
+
                 <div>
                     <h4 style="color: #000000;">CyberVoluntarios</h4>
                     <p style="color: #000000;">© 2023 CyberVoluntarios. All rights reserved.</p>
