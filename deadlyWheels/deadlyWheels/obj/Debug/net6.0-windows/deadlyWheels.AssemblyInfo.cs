@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deadlyWheels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9945072819d0625c9d21d414f03c413fc65db589")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddfe7fdcfa79e63bb14f1e86f31e0993c703638a")]
 [assembly: System.Reflection.AssemblyProductAttribute("deadlyWheels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deadlyWheels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = deadlyWheels
-build_property.ProjectDir = C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\
+build_property.ProjectDir = C:\xampp\htdocs\pruebas-DeadlyWheels\deadlyWheels\deadlyWheels\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

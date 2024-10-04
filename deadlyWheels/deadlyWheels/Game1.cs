@@ -5,91 +5,82 @@ using daadlyWheels.States;
 
 namespace daadlyWheels
 {
-    /// <summary>
-    /// This is the main type for your game.
-    /// </summary>
     public class Game1 : Game
     {
-        GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;
+        GraphicsDeviceManager graphics; // declara un objeto que maneja el dispositivo gráfico. Se usa para configurar la pantalla y los gráficos
+        SpriteBatch spriteBatch; // declara un objeto que permite dibujar múltiples sprites
 
-        private State _currentState;
+        
+        // State -> clase creada en daadlyWheels.States.State
+        private State _currentState; // declara una variable para almacenar el estado actual del juego (ej, el menu, un nivel, etc) --?
+        private State _nextState; // declara una variable para almacenar el próximo estado al que se desea cambiar --?
 
-        private State _nextState;
 
-        public void ChangeState(State state)
+        public void ChangeState(State state) // metodo para cambiar el estado
         {
             _nextState = state;
+            // recibe un objeto de tipo State y lo asigna a _nextState. Este método será utilizado
+            // para transitar entre diferentes estados del juego (ej, del menu al juego)
         }
 
-        public Game1()
+
+        public Game1() // constructor 
         {
             graphics = new GraphicsDeviceManager(this);
-            Content.RootDirectory = "Content";
+            Content.RootDirectory = "Content"; // establece el directorio raíz donde se almacenará el contenido (imágenes, sonidos, etc.) del juego --?
         }
 
-        /// <summary>
-        /// Allows the game to perform any initialization it needs to before starting to run.
-        /// This is where it can query for any required services and load any non-graphic
-        /// related content.  Calling base.Initialize will enumerate through any components
-        /// and initialize them as well.
-        /// </summary>
-        protected override void Initialize()
+
+        protected override void Initialize() // inicialización
         {
             IsMouseVisible = true;
-
             base.Initialize();
         }
 
-        /// <summary>
-        /// LoadContent will be called once per game and is the place to load
-        /// all of your content.
-        /// </summary>
-        protected override void LoadContent()
+
+        protected override void LoadContent() // carga de contenido
         {
-            // Create a new SpriteBatch, which can be used to draw textures.
-            spriteBatch = new SpriteBatch(GraphicsDevice);
+            spriteBatch = new SpriteBatch(GraphicsDevice); 
+            // crea una nueva instancia de SpriteBatch utilizando el dispositivo gráfico actual, lo que permite dibujar texturas en la pantalla
 
             _currentState = new MenuState(this, graphics.GraphicsDevice, Content);
+            // inicializa el estado actual del juego, en este caso un MenuState. Se pasa this para referirse a la instancia actual de Game1,
+            // así como el dispositivo gráfico y el administrador de contenido --?
         }
 
-        /// <summary>
-        /// UnloadContent will be called once per game and is the place to unload
-        /// game-specific content.
-        /// </summary>
-        protected override void UnloadContent()
+        
+        protected override void UnloadContent() // descartar contenido
         {
             // TODO: Unload any non ContentManager content here
+
+            // para liberar cualquier contenido específico del juego que no esté gestionado por el ContentManager --?
         }
 
-        /// <summary>
-        /// Allows the game to run logic such as updating the world,
-        /// checking for collisions, gathering input, and playing audio.
-        /// </summary>
-        /// <param name="gameTime">Provides a snapshot of timing values.</param>
-        protected override void Update(GameTime gameTime)
+        
+        protected override void Update(GameTime gameTime) // actualización del juego
         {
-            if (_nextState != null)
-            {
-                _currentState = _nextState;
+            // para actualizar la lógica del juego, como la entrada del usuario y la lógica del juego
 
-                _nextState = null;
+            if (_nextState != null) // si hay un nuevo estado al que cambiar...
+            {
+                _currentState = _nextState; // cambia el estado del juego
+                _nextState = null; // restablece _nextState a null después de haberlo asignado
             }
 
-            _currentState.Update(gameTime);
+            _currentState.Update(gameTime); 
+            // llama al método Update del estado actual para que realice su lógica de actualización
 
-            _currentState.PostUpdate(gameTime);
+            _currentState.PostUpdate(gameTime); 
+            // llama a un método que puede ser usado para la lógica que necesita ocurrir después de la actualización principal, como la gestión de animaciones
 
-            base.Update(gameTime);
+            base.Update(gameTime); 
+            // llama al método de actualización de la clase base para manejar cualquier lógica adicional necesaria
         }
 
-        /// <summary>
-        /// This is called when the game should draw itself.
-        /// </summary>
-        /// <param name="gameTime">Provides a snapshot of timing values.</param>
-        protected override void Draw(GameTime gameTime)
+        
+        protected override void Draw(GameTime gameTime) // dibujo en la pantalla
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.DarkSeaGreen); // limpia la pantalla y la establece en un color azul (Cornflower Blue) antes de dibujar
 
             _currentState.Draw(gameTime, spriteBatch);
 

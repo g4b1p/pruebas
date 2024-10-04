@@ -7537,11 +7537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
       "projectName": "deadlyWheels",
-      "projectPath": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
       "packagesPath": "C:\\Users\\Gaby Plata\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gaby Plata\\AppData\\Roaming\\NuGet\\NuGet.Config",

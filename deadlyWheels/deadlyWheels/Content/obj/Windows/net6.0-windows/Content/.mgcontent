@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/xampp/htdocs/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/Controls/button.png</File>
-    <File>C:/xampp/htdocs/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/Fonts/Font.spritefont</File>
+    <File>C:/xampp/htdocs/pruebas-DeadlyWheels/deadlyWheels/deadlyWheels/Content/Controls/button.png</File>
+    <File>C:/xampp/htdocs/pruebas-DeadlyWheels/deadlyWheels/deadlyWheels/Content/Fonts/Font.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File>Controls/Button.png</File>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VPJzQmEWUX0=",
+  "dgSpecHash": "O/cEC+OUcrs=",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\deadlyWheels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gaby Plata\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Gaby Plata\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
