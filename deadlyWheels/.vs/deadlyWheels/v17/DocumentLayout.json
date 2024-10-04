@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\pruebas-deadlywheels\\deadlywheels\\deadlywheels\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,26 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuState.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs",
-              "RelativeDocumentMoniker": "deadlyWheels\\States\\MenuState.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs",
-              "RelativeToolTip": "deadlyWheels\\States\\MenuState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:49:24.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Button.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\Controls\\Button.cs",
               "RelativeDocumentMoniker": "deadlyWheels\\Controls\\Button.cs",
               "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\Controls\\Button.cs",
               "RelativeToolTip": "deadlyWheels\\Controls\\Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T16:48:27.628Z",
               "EditorCaption": ""
@@ -96,8 +83,8 @@
               "Title": "GameState.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\GameState.cs",
               "RelativeDocumentMoniker": "deadlyWheels\\States\\GameState.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\GameState.cs*",
-              "RelativeToolTip": "deadlyWheels\\States\\GameState.cs*",
+              "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\GameState.cs",
+              "RelativeToolTip": "deadlyWheels\\States\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T16:50:02.978Z",
@@ -106,19 +93,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MenuState.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\States\\MenuState.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs*",
+              "RelativeToolTip": "deadlyWheels\\States\\MenuState.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEgAAABQAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:49:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\State.cs",
               "RelativeDocumentMoniker": "deadlyWheels\\States\\State.cs",
               "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\States\\State.cs",
               "RelativeToolTip": "deadlyWheels\\States\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T16:48:46.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Component.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\Component.cs",
               "RelativeDocumentMoniker": "deadlyWheels\\Component.cs",
@@ -131,13 +131,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\Game1.cs",
               "RelativeDocumentMoniker": "deadlyWheels\\Game1.cs",
               "ToolTip": "C:\\xampp\\htdocs\\pruebas-DeadlyWheels\\deadlyWheels\\deadlyWheels\\Game1.cs",
               "RelativeToolTip": "deadlyWheels\\Game1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:02:32.635Z",
               "EditorCaption": ""
