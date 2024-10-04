@@ -80,7 +80,7 @@ namespace daadlyWheels
         
         protected override void Draw(GameTime gameTime) // dibujo en la pantalla
         {
-            GraphicsDevice.Clear(Color.DarkSeaGreen); // limpia la pantalla y la establece en un color verde antes de dibujar
+            GraphicsDevice.Clear(Color.SpringGreen); // limpia la pantalla y la establece en un color antes de dibujar
             _currentState.Draw(gameTime, spriteBatch); // llama al método Draw del estado actual, pasa gameTime y spriteBatch para que dibuje en la pantalla
 
             base.Draw(gameTime); // llama al método de dibujo de la clase base para realizar cualquier operación adicional de dibujo que pueda ser necesaria --?
