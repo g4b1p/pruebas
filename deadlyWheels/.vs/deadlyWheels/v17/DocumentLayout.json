@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\content\\controls\\button.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\content\\controls\\button.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\controls\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|c:\\xampp\\htdocs\\deadlywheels\\gabi monogame\\deadlywheels\\deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDA41FE-C595-432D-AD57-F4F5912F2545}|deadlyWheels\\deadlyWheels.csproj|solutionrelative:deadlywheels\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "button.png",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Content\\Controls\\button.png",
+              "RelativeDocumentMoniker": "deadlyWheels\\Content\\Controls\\button.png",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Content\\Controls\\button.png",
+              "RelativeToolTip": "deadlyWheels\\Content\\Controls\\button.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-13T19:03:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\GameState.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\States\\GameState.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\GameState.cs",
+              "RelativeToolTip": "deadlyWheels\\States\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:50:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuState.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\States\\MenuState.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\MenuState.cs",
+              "RelativeToolTip": "deadlyWheels\\States\\MenuState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:49:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\State.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\States\\State.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\States\\State.cs",
+              "RelativeToolTip": "deadlyWheels\\States\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:48:46.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Controls\\Button.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\Controls\\Button.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Controls\\Button.cs",
+              "RelativeToolTip": "deadlyWheels\\Controls\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:48:27.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Game1.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\Game1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Game1.cs",
+              "RelativeToolTip": "deadlyWheels\\Game1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:02:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Component.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\Component.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Component.cs",
+              "RelativeToolTip": "deadlyWheels\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:45:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Program.cs",
+              "RelativeDocumentMoniker": "deadlyWheels\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DeadlyWheels\\gabi monogame\\deadlyWheels\\deadlyWheels\\Program.cs",
+              "RelativeToolTip": "deadlyWheels\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:02:37.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/xampp/htdocs/proyecto 5°10/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/Controls/button.png","C:/xampp/htdocs/proyecto 5°10/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/bin/Windows/Controls/Button.xnb","TextureProcessor","Texture2DContent",324,25685,0,1073587
+"C:/xampp/htdocs/proyecto 5°10/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/Fonts/Font.spritefont","C:/xampp/htdocs/proyecto 5°10/DeadlyWheels/gabi monogame/deadlyWheels/deadlyWheels/Content/bin/Windows/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,0832979

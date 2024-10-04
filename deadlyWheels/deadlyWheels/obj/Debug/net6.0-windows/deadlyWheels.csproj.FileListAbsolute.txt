@@ -1,0 +1,117 @@
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.exe
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.deps.json
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.runtimeconfig.json
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.pdb
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.AssemblyReference.cache
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfoInputs.cache
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfo.cs
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.CoreCompileInputs.cache
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWh.FE0EDCD5.Up2Date
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\refint\deadlyWheels.dll
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.pdb
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.genruntimeconfig.cache
+C:\Users\A-17\source\repos\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\ref\deadlyWheels.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.AssemblyReference.cache
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfoInputs.cache
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfo.cs
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.sourcelink.json
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\refint\deadlyWheels.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.pdb
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Content\Controls\button.xnb
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Content\Fonts\Font.xnb
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.exe
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.deps.json
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.runtimeconfig.json
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.pdb
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWh.FE0EDCD5.Up2Date
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.genruntimeconfig.cache
+C:\xampp\htdocs\proyecto 5°10\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\ref\deadlyWheels.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Content\Controls\Button.xnb
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Content\Fonts\Font.xnb
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.exe
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.deps.json
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.runtimeconfig.json
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\deadlyWheels.pdb
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.AssemblyReference.cache
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfoInputs.cache
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.AssemblyInfo.cs
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.sourcelink.json
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWh.FE0EDCD5.Up2Date
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\refint\deadlyWheels.dll
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.pdb
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\deadlyWheels.genruntimeconfig.cache
+C:\xampp\htdocs\DeadlyWheels\gabi monogame\deadlyWheels\deadlyWheels\obj\Debug\net6.0-windows\ref\deadlyWheels.dll
