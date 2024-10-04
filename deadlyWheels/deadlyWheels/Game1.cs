@@ -74,17 +74,16 @@ namespace daadlyWheels
             // llama a un método que puede ser usado para la lógica que necesita ocurrir después de la actualización principal, como la gestión de animaciones
 
             base.Update(gameTime); 
-            // llama al método de actualización de la clase base para manejar cualquier lógica adicional necesaria
+            // llama al método de actualización de la clase base para manejar cualquier lógica adicional necesaria --?
         }
 
         
         protected override void Draw(GameTime gameTime) // dibujo en la pantalla
         {
-            GraphicsDevice.Clear(Color.DarkSeaGreen); // limpia la pantalla y la establece en un color azul (Cornflower Blue) antes de dibujar
+            GraphicsDevice.Clear(Color.DarkSeaGreen); // limpia la pantalla y la establece en un color verde antes de dibujar
+            _currentState.Draw(gameTime, spriteBatch); // llama al método Draw del estado actual, pasa gameTime y spriteBatch para que dibuje en la pantalla
 
-            _currentState.Draw(gameTime, spriteBatch);
-
-            base.Draw(gameTime);
+            base.Draw(gameTime); // llama al método de dibujo de la clase base para realizar cualquier operación adicional de dibujo que pueda ser necesaria --?
         }
     }
 }
