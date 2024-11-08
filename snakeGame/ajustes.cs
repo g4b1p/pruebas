@@ -22,7 +22,7 @@ namespace snakeGame
 
         private bool sonidoActivado = false;
 
-        private string[] opciones = { "volumen", "regresar al menu" };
+        private string[] opciones = { "volumen", "volver" };
 
         KeyboardState estadoTecladoAnterior;
 
@@ -78,7 +78,7 @@ namespace snakeGame
             {
                 Color colorBoton = (i == opcionSeleccionada) ? Color.Yellow : Color.White;
 
-                spriteBatch.Draw(boton, new Rectangle(280, 160 + (i * 90), 220, 110), colorBoton);
+                spriteBatch.Draw(boton, new Rectangle(285, 160 + (i * 90), 220, 110), colorBoton);
 
                 Color colorTexto = (i == opcionSeleccionada) ? Color.Red : Color.Black;
 
