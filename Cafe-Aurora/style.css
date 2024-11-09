@@ -1,0 +1,30 @@
+.link {
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+}
+
+.cuadro {
+    text-decoration:none;
+    color: #000;
+    border: 2px solid #000;
+    padding: 10px 30px;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex; 
+    justify-content:space-between; 
+    align-items: center;
+}
+
+hr {
+    width: 60%;
+    height: 1px;
+    color:#000;
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
