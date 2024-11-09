@@ -23,7 +23,7 @@ namespace snakeGame
             Content.RootDirectory = "Content";
             IsMouseVisible = false;
 
-            _graphics.IsFullScreen = true;
+            //_graphics.IsFullScreen = true;
 
             //_graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
             

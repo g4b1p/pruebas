@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaby Plata\\source\\repos\\snakeGame\\snakeGame.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\pruebas\\snakeGame\\snakeGame.csproj",
       "projectName": "snakeGame",
-      "projectPath": "C:\\Users\\Gaby Plata\\source\\repos\\snakeGame\\snakeGame.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\pruebas\\snakeGame\\snakeGame.csproj",
       "packagesPath": "C:\\Users\\Gaby Plata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaby Plata\\source\\repos\\snakeGame\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\pruebas\\snakeGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gaby Plata\\AppData\\Roaming\\NuGet\\NuGet.Config",
