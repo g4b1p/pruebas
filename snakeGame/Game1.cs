@@ -10,12 +10,13 @@ namespace snakeGame
         SpriteBatch _spriteBatch;
 
         menuPrincipal menu;
-
         juego juego;
-
         ajustes ajustes;
 
         string estadoActual;
+
+        public int pantallaAncho { get; private set; }
+        public int pantallaAltura { get; private set; }
 
         public Game1() // inicializacion
         {
@@ -23,13 +24,11 @@ namespace snakeGame
             Content.RootDirectory = "Content";
             IsMouseVisible = false;
 
-            //_graphics.IsFullScreen = true;
-
-            //_graphics.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
-            
-            //_graphics.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
-            
-            //_graphics.ApplyChanges();
+            _graphics.IsFullScreen = true;
+            pantallaAncho = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;
+            pantallaAltura = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;
+            _graphics.PreferredBackBufferWidth = pantallaAncho;
+            _graphics.PreferredBackBufferHeight = pantallaAltura;
         }
 
         protected override void Initialize()
@@ -37,9 +36,7 @@ namespace snakeGame
             // TODO: Add your initialization logic here
 
             menu = new menuPrincipal(this);
-
             juego = new juego(this);
-
             ajustes = new ajustes(this);
 
             estadoActual = "menu"; // Inicia en el menú principal
@@ -53,9 +50,7 @@ namespace snakeGame
             // TODO: use this.Content to load your game content here
 
             menu.Initialize(Content);
-
             juego.Initialize(Content);
-
             ajustes.Initialize(Content);
         }
 
@@ -85,7 +80,8 @@ namespace snakeGame
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            //GraphicsDevice.Clear(Color.CornflowerBlue);
+
             _spriteBatch.Begin();
             // TODO: Add your drawing code here
 

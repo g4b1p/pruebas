@@ -7,8 +7,10 @@
     <File>C:/xampp/htdocs/pruebas/snakeGame/Content/boton.jpg</File>
     <File>C:/xampp/htdocs/pruebas/snakeGame/Content/fondoSnake.jpg</File>
     <File>C:/xampp/htdocs/pruebas/snakeGame/Content/fuente.spritefont</File>
+    <File>C:/xampp/htdocs/pruebas/snakeGame/Content/titulo.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

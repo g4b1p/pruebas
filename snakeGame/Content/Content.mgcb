@@ -44,3 +44,10 @@
 /processorParam:TextureFormat=Compressed
 /build:fuente.spritefont
 
+#begin titulo.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:titulo.spritefont
+
