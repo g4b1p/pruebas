@@ -14,7 +14,7 @@ body {
 }
 
 body p{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .nav {
@@ -62,7 +62,7 @@ body p{
 
 .footerinfo{
     position: absolute;
-    top: 210%;
+    top: 260%;
     margin: 0 9%;
     width: 80%;
     color: #fff;

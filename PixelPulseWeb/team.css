@@ -35,55 +35,38 @@ body p{
     font-size: 20px;
 }
 
-.underline::after {
-    content: '';
-    display: block;
-    width: 100%;
-    height: 2px;
-    background-color: #000;
-    position: absolute;
-    bottom: -2px;
-    left: 0;
-}
 
 .logoinicio {
     text-align: center;
 }
 
-.pixelpulse {
-    margin: 0;
-    padding: 0;
-    height: 1200px;
+
+.fila {
+    display: flex;
 }
 
-.verde {
-    background-image: linear-gradient(to bottom, #004710, #034512, #064313, #084015, #0b3e16, #0b3d16, #0a3b15, #0a3a15, #073913, #053811, #02370f, #00360d);    padding: 0;
+.persons {
+    margin: 100px;
+    max-width: 1400px;
 }
 
-.juego {
+.person {
+    color: #fff;
     display: flex;
     align-items: center;
-    justify-content: center;
+    margin: 20px;
+    width: 900px;
 }
 
-.infojuego {
-    color: #fff;
+.person img {
+    width: 200px;
+    height: auto;
+    margin: 0 35px;
 }
 
-.infojuego button {
-    border-radius: 50px;
-    padding: 10px 20px;
-    color: #000;
-    font-size: 18px;
-    background-color: #fff;
-    border: none;
-    margin: 10px 0;
-    cursor: pointer;
-}
-
-.infojuego button a {
+.p li{
+    font-size: 25px;
     text-decoration: none;
-    color: #000;
 }
 
 .contacto {
@@ -97,7 +80,7 @@ body p{
 
 .footerinfo{
     position: absolute;
-    top: 260%;
+    top: 228%;
     margin: 0 9%;
     width: 80%;
     color: #fff;
